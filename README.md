@@ -1,4 +1,4 @@
-# Development board cheat sheet
+# Hacks'n'cracks / Development Board / cheat sheet
 
 ## Overview
 
@@ -10,6 +10,10 @@ This repository was intended for storing code and/or documentation for various w
   - Raspbian Jessie
     - [IP camera / RTSP streaming](https://github.com/TheBananaGuy/devboard/blob/master/rpi3b/jessie/camera.md)
     - [Wi-Fi hotspot](https://github.com/TheBananaGuy/devboard/blob/master/rpi3b/jessie/wifi-hotspot-AP.md)
+
+## Prerequisites
+
+Everything you need is individual to each specific case. It is recommended to study the documents for installation guides and specifics regarding any prerequisites at all.
 
 ## TODO:
 - Add something new
